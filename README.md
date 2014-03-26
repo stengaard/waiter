@@ -14,3 +14,6 @@ Install
 -------
 
     $ go get github.com/stengaard/waiter
+
+
+[![Gobuild Download](http://gobuild.io/badge/github.com/stengaard/waiter/download.png)](http://gobuild.io/github.com/stengaard/waiter)
